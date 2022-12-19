@@ -1,0 +1,11 @@
+{
+  "rspy": {
+    "name": "rspy",
+    "modules": [
+      {
+        "name": "rspy",
+        "path": "./artifacts/rspy.wasm"
+      }
+    ]
+  }
+}
