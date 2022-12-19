@@ -15,7 +15,7 @@
  */
 
 use marine_rs_sdk::{marine, module_manifest, WasmLoggerBuilder};
-use rustpython as vm;
+use rustpython_vm as vm;
 
 module_manifest!();
 
